@@ -9,4 +9,4 @@ Learning Golang
 - Chapter 5 - Go Pointers
 - Chapter 6 - Go Concurrency
 - Chapter 7 - Go Error Handling
-- Chapter 8 - Go Web Programming
+- Chapter 8 - Go Web Programming - Echo Framework

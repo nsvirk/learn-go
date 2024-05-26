@@ -7,6 +7,7 @@ import (
 	"github.com/nsvirk/learn-go/ch03"
 	"github.com/nsvirk/learn-go/ch04"
 	"github.com/nsvirk/learn-go/ch05"
+	"github.com/nsvirk/learn-go/ch08"
 )
 
 func init() {
@@ -39,5 +40,8 @@ func main() {
 
 	// ch05
 	ch05.LearnPointers()
+
+	// ch08
+	ch08.LearnEcho()
 
 }
